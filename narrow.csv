@@ -1,0 +1,673 @@
+"","dataset","variable","description","confidence"
+"1","architectural_design_control_district_area","OBJECTID","Unique identifier",4
+"2","architectural_design_control_district_area","NAME","Colloquial district name",4
+"3","architectural_design_control_district_area","Shapearea","Surface area of district",2
+"422","bicycle_lane_line_2016_update_","OBJECTID_1","Row number",3
+"423","bicycle_lane_line_2016_update_","OBJECTID","House number",3
+"424","bicycle_lane_line_2016_update_","STREETNAME","Street name",4
+"425","bicycle_lane_line_2016_update_","pavement_w","",1
+"426","bicycle_lane_line_2016_update_","ROW_width","",1
+"427","bicycle_lane_line_2016_update_","AADT","",1
+"428","bicycle_lane_line_2016_update_","driving_la","number of traffic lanes",4
+"429","bicycle_lane_line_2016_update_","lane_exist","",1
+"430","bicycle_lane_line_2016_update_","shared_exi","shared with traffic",3
+"431","bicycle_lane_line_2016_update_","shared_pro","new lane shared with traffic",3
+"432","bicycle_lane_line_2016_update_","Parking","",1
+"433","bicycle_lane_line_2016_update_","street_cla","classification of streets",3
+"434","bicycle_lane_line_2016_update_","sidewalk","sidewalk on side of street",3
+"435","bicycle_lane_line_2016_update_","FieldNetwo","",1
+"436","bicycle_lane_line_2016_update_","Notes","",4
+"437","bicycle_lane_line_2016_update_","RecFacilit","type of lane",3
+"438","bicycle_lane_line_2016_update_","MajorActio","action to perform",2
+"439","bicycle_lane_line_2016_update_","Effort","how hard",4
+"440","bicycle_lane_line_2016_update_","SpeedLimit","speed limit on the road",4
+"441","bicycle_lane_line_2016_update_","TotalWidth","width of bike lane",1
+"442","bicycle_lane_line_2016_update_","ExistingFa","",1
+"443","bicycle_lane_line_2016_update_","ShoulPark_","parking spots on road shoulder",4
+"444","bicycle_lane_line_2016_update_","BL11","",1
+"445","bicycle_lane_line_2016_update_","L11","",1
+"446","bicycle_lane_line_2016_update_","L21","",1
+"447","bicycle_lane_line_2016_update_","L31","",1
+"448","bicycle_lane_line_2016_update_","LTL11","",1
+"449","bicycle_lane_line_2016_update_","Median1","",1
+"450","bicycle_lane_line_2016_update_","LTL21","",1
+"451","bicycle_lane_line_2016_update_","L41","",1
+"452","bicycle_lane_line_2016_update_","L51","",1
+"453","bicycle_lane_line_2016_update_","L61","",1
+"454","bicycle_lane_line_2016_update_","BL21","",1
+"455","bicycle_lane_line_2016_update_","MinBL","",1
+"456","bicycle_lane_line_2016_update_","CrossingAd","",1
+"457","bicycle_lane_line_2016_update_","Additional","notes on improvement areas",4
+"458","bicycle_lane_line_2016_update_","Rec_Notes_","",4
+"459","bicycle_lane_line_2016_update_","Widest","widest road (lane) point",3
+"460","bicycle_lane_line_2016_update_","Narrowest","narrowest road (lane) point",3
+"461","bicycle_lane_line_2016_update_","Street_1","lane start street",3
+"462","bicycle_lane_line_2016_update_","To_","lane end street",4
+"463","bicycle_lane_line_2016_update_","Option_B","alternative lane option",3
+"464","bicycle_lane_line_2016_update_","Option_C","alternative lane option",3
+"465","bicycle_lane_line_2016_update_","Existing_C","existing lane type",3
+"466","bicycle_lane_line_2016_update_","Peters_Com","comments",4
+"467","bicycle_lane_line_2016_update_","BBW_Commen","comments",4
+"468","bicycle_lane_line_2016_update_","Mileage","length of lane",3
+"469","bicycle_lane_line_2016_update_","From_Stree","Start of lane",2
+"470","bicycle_lane_line_2016_update_","To_Street","End of lane",2
+"471","bicycle_lane_line_2016_update_","Corridor_T","type of corridor",2
+"472","bicycle_lane_line_2016_update_","Carto_Hide","",1
+"473","bicycle_lane_line_2016_update_","TDG_Proj_I","project ID",1
+"474","bicycle_lane_line_2016_update_","Segment_ID","project ID",1
+"475","bicycle_lane_line_2016_update_","Prioritiza","ranking of prioity (1-10)",4
+"476","bicycle_lane_line_2016_update_","MEAN_Cross","",1
+"477","bicycle_lane_line_2016_update_","MEAN_Prior","",1
+"478","bicycle_lane_line_2016_update_","TDG_Proj_1","project ID",1
+"479","bicycle_lane_line_2016_update_","Connection","number of connections",1
+"480","bicycle_lane_line_2016_update_","Connecti_1","number of connections",1
+"481","bicycle_lane_line_2016_update_","Connecti_2","number of connections",1
+"482","bicycle_lane_line_2016_update_","Connecti_3","number of connections",1
+"483","bicycle_lane_line_2016_update_","Avg_Demand","demand for a bike lane",2
+"484","bicycle_lane_line_2016_update_","Public_Com","",1
+"485","bicycle_lane_line_2016_update_","Total_Proj","total length",2
+"486","bicycle_lane_line_2016_update_","Percent_on","",1
+"487","bicycle_lane_line_2016_update_","Shape_Leng","total length",2
+"488","bicycle_lane_line_2016_update_","Highest_Co","type of corridor",3
+"489","bicycle_lane_line_2016_update_","seg_join_c","",1
+"490","bicycle_lane_line_2016_update_","LENGTH_Fee","fee per unit of length",2
+"491","bicycle_lane_line_2016_update_","Cost_Estim","estimated cost",4
+"492","bicycle_lane_line_2016_update_","Number_of_","num of lanes",2
+"493","bicycle_lane_line_2016_update_","Number_of1","",1
+"494","bicycle_lane_line_2016_update_","Bike_Symbo","number of bike symbols",2
+"495","bicycle_lane_line_2016_update_","Sharrows__","number of shared roads",3
+"496","bicycle_lane_line_2016_update_","Curb","number of curbs",1
+"497","bicycle_lane_line_2016_update_","Drainage","number (existance) of drainage points",3
+"498","bicycle_lane_line_2016_update_","Utility_Po","",1
+"499","bicycle_lane_line_2016_update_","F__of_Sign","",1
+"500","bicycle_lane_line_2016_update_","Shared_Pat","",1
+"501","bicycle_lane_line_2016_update_","Road_Widen","",1
+"502","bicycle_lane_line_2016_update_","Road_Wid_1","",1
+"503","bicycle_lane_line_2016_update_","Sidewalk_M","Number of sidewalks",3
+"504","bicycle_lane_line_2016_update_","Length_Mil","Length of bike trail in miles",4
+"505","bicycle_lane_line_2016_update_","LaneTYPE","Type of bike lane",3
+"506","bicycle_lane_line_2016_update_","ShapeSTLength","Street Length",2
+"841","bicycle_lane_lines","OBJECTID","House number",3
+"842","bicycle_lane_lines","STREETNAME","Street name",4
+"854","bicycle_lane_lines","Notes","",4
+"922","bicycle_lane_lines","Length_Mil","Length of bike trail in miles",4
+"923","bicycle_lane_lines","LaneTYPE","Type of bike lane",4
+"925","bicycle_lane_lines","STATUS","Proposed or Existing Lane?",4
+"1255","bicycle_rack_points","OBJECTID","Unique identifier",4
+"1344","bicycle_rack_points","X","GPS Longitude",4
+"1345","bicycle_rack_points","Y","GPS Latitude",4
+"1346","bicycle_rack_points","TYPE","Bicycle rack shape/type",4
+"1347","bicycle_rack_points","STATUS","Year bike rack was built",3
+"1348","bicycle_rack_points","CONDITION","Nearby POI to bike rack",2
+"1349","bicycle_rack_points","NOTES","Bike capacity",4
+"1350","bicycle_rack_points","BIKE_RACK_ID","District of bike rack",3
+"1769","building_permits","RecordID_Int","Unique Record Identifier",3
+"1770","building_permits","Number","Permit Number",3
+"1771","building_permits","Type","Type of Building",2
+"1772","building_permits","Status","Progress Status",3
+"1773","building_permits","SubType","More specific kind of building",2
+"1774","building_permits","AppliedDate","Date applied for permit",3
+"1775","building_permits","IssuedDate","Date permit was issued",3
+"1776","building_permits","Valuation","Estimated value of the building (USD)",3
+"1777","building_permits","Sqft","Square footage",4
+"1778","building_permits","Fee","Cost of permit",3
+"1779","building_permits","WorkDescription","Brief description of building",4
+"1780","building_permits","PropertyAddress","Address pf property",4
+"1781","building_permits","ParcelNo","APN (Assessor Parcel Number)",4
+"1782","building_permits","Zoning","Zoning of building",3
+"1783","building_permits","Historic","Historic building?",4
+"2187","building_permits_spatial_","RecordID_Int","Unique Record Identifier",3
+"2188","building_permits_spatial_","Number","Permit Number",3
+"2189","building_permits_spatial_","Type","Type of Building",2
+"2190","building_permits_spatial_","Status","Progress Status",3
+"2191","building_permits_spatial_","SubType","More specific kind of building",2
+"2192","building_permits_spatial_","AppliedDate","Date applied for permit",3
+"2193","building_permits_spatial_","IssuedDate","Date permit was issued",3
+"2194","building_permits_spatial_","Valuation","Estimated value of the building (USD)",3
+"2195","building_permits_spatial_","Sqft","Square footage",4
+"2196","building_permits_spatial_","Fee","Cost of permit",3
+"2197","building_permits_spatial_","WorkDescription","Brief description of building",4
+"2198","building_permits_spatial_","PropertyAddress","Address pf property",4
+"2199","building_permits_spatial_","ParcelNo","APN (Assessor Parcel Number)",4
+"2200","building_permits_spatial_","Zoning","Zoning of building",3
+"2201","building_permits_spatial_","Historic","Historic building?",4
+"2509","cat_bus_stop_points","OBJECTID","Unique identifier",4
+"2598","cat_bus_stop_points","X","GPS Longitude",4
+"2599","cat_bus_stop_points","Y","GPS Latitude",4
+"2620","cat_bus_stop_points","stop_id","Unique stop identifier",4
+"2621","cat_bus_stop_points","stop_code","Additional stop identifier",4
+"2622","cat_bus_stop_points","stop_name","Colloquial stop name",4
+"2623","cat_bus_stop_points","PARK_TYPE","Type of park",4
+"2624","cat_bus_stop_points","PARKNAME","Name of park",4
+"2625","cat_bus_stop_points","ZONING_OVERLAY","",1
+"2626","cat_bus_stop_points","WEBURL","Link to website",4
+"2927","cemetery_locations","OBJECTID","Unique identifier",4
+"2929","cemetery_locations","Shapearea","Surface area of district",2
+"3345","charlottesville_fire_department_station_locations","OBJECTID","Unique identifier",4
+"3434","charlottesville_fire_department_station_locations","X","GPS Longitude",4
+"3435","charlottesville_fire_department_station_locations","Y","GPS Latitude",4
+"3463","charlottesville_fire_department_station_locations","NAME","Name of fire department station",4
+"3763","city_construction_project_area_cip_","OBJECTID","Unique identifier",4
+"3882","city_construction_project_area_cip_","DEPARTMENT","City department",3
+"3883","city_construction_project_area_cip_","PROJECT_TYPE","Type of project",4
+"3884","city_construction_project_area_cip_","PROJECT_NAME","Name of project",4
+"3885","city_construction_project_area_cip_","CLASS","",1
+"3886","city_construction_project_area_cip_","STATUS","Progress of project",3
+"3887","city_construction_project_area_cip_","LOCATION","Colloquial location of project",4
+"3888","city_construction_project_area_cip_","PROJECT_DESCRIPTION","Brief description of project",4
+"3889","city_construction_project_area_cip_","CONTRACTOR","Project contractor",4
+"3890","city_construction_project_area_cip_","CONSULTANT","Project consultant",4
+"3891","city_construction_project_area_cip_","PROJECT_MNGR","Project manager",4
+"3892","city_construction_project_area_cip_","PM_CONTACT","Point of contact",3
+"3893","city_construction_project_area_cip_","PROJECT_BUDGET","Budget of project OR where the money's coming from",3
+"3894","city_construction_project_area_cip_","DATE_START","Start date of project",4
+"3895","city_construction_project_area_cip_","DATE_COMPLETE","Complete date of project",4
+"3896","city_construction_project_area_cip_","COMMENTS","Comments",4
+"4181","city_trails","OBJECTID","Unique identifier",4
+"4198","city_trails","Notes","",4
+"4269","city_trails","STATUS","Proposed or Existing Lane?",4
+"4288","city_trails","PropertyAddress","Address pf property",4
+"4315","city_trails","NAME","Name of trail",4
+"4316","city_trails","TYPE","Type of trail",4
+"4317","city_trails","EASEMENT","Progress of easement proposal",3
+"4318","city_trails","PROPERTY_OWNER","Owner of the property",4
+"4319","city_trails","POLICE_TRESPASS","",1
+"4320","city_trails","SHAPElen","Length ",3
+"4739","dataset_listing","DatasetID","Unique identifier of data set",4
+"4740","dataset_listing","Name","Name of data set",4
+"4741","dataset_listing","DataSteward","Steward of data (who posted/updates)",4
+"4742","dataset_listing","DataUpdateFrequency","How often the data set is updated",4
+"4743","dataset_listing","CreatedDateTime","Date/Time of data set creation",4
+"4744","dataset_listing","Description","Description of data set",4
+"4745","dataset_listing","HasSpatialData","Indicator of if the data set contains spatial data",4
+"5017","dataset_log","OBJECTID","Unique identifier",4
+"5164","dataset_log","LogType","Type of update to database",4
+"5165","dataset_log","Description","Description of updates to portal database",4
+"5166","dataset_log","created_date","Date/Time the update was made",4
+"5440","dog_tag","STREETNAME","Street name",4
+"5585","dog_tag","RecordID","Unique ID for record",4
+"5586","dog_tag","FeeAmount","Fee cost for dog tag",4
+"5587","dog_tag","RabiesExpirationDate","Expiration date for rabies shot associated with dog tag",4
+"5588","dog_tag","StreetName","Name of street for dog tag",4
+"5589","dog_tag","StreetNumber","ZONE",4
+"5590","dog_tag","TagNumber","Dog tag number",4
+"5591","dog_tag","TagType","Type of dog tag",4
+"5592","dog_tag","TagYear","Year of dog tag",3
+"5853","elementary_school_zone_area","OBJECTID","Unique identifier",4
+"6011","elementary_school_zone_area","ZONE","Zone name of school",4
+"6271","entrance_corridor_area","OBJECTID","Unique identifier",4
+"6272","entrance_corridor_area","NAME","Colloquial district name",4
+"6273","entrance_corridor_area","Shapearea","Surface area of district",2
+"6689","existing_structure_area","OBJECTID","Unique identifier",4
+"6691","existing_structure_area","Shapearea","Surface area of district",4
+"6848","existing_structure_area","ADDRESSTBL","",1
+"6849","existing_structure_area","BIN","",1
+"6850","existing_structure_area","ST_NUMBER","Street number",3
+"6851","existing_structure_area","STREET","Name of street",4
+"6852","existing_structure_area","TYPE","Type of structure",3
+"6853","existing_structure_area","NAME","Name of structure",3
+"6854","existing_structure_area","DESCRIP","Description of structure",3
+"6855","existing_structure_area","MAX_HEIGHT","Max height of structure",3
+"6856","existing_structure_area","COMMENT","Comments",4
+"6857","existing_structure_area","STATUS","Status of structure",3
+"6858","existing_structure_area","CONDITION","Condition of structure",3
+"7107","floodplain_area_500_yr_2017","OBJECTID","Unique identifier",4
+"7277","floodplain_area_500_yr_2017","DFIRM_ID","id of development firm?",1
+"7278","floodplain_area_500_yr_2017","VERSION_ID","version of the classification",2
+"7279","floodplain_area_500_yr_2017","FLD_AR_ID","area id",4
+"7280","floodplain_area_500_yr_2017","STUDY_TYP","type of study - non-profit?",1
+"7281","floodplain_area_500_yr_2017","FLD_ZONE","field zone",1
+"7282","floodplain_area_500_yr_2017","ZONE_SUBTY","zone subtype",3
+"7283","floodplain_area_500_yr_2017","SFHA_TF","",1
+"7284","floodplain_area_500_yr_2017","SOURCE_CIT","",1
+"7285","floodplain_area_500_yr_2017","ShapeSTArea","area of the zone",4
+"7525","floodway_area_2017","OBJECTID","Unique identifier",4
+"7695","floodway_area_2017","DFIRM_ID","id of development firm?",1
+"7696","floodway_area_2017","VERSION_ID","version of the classification",2
+"7697","floodway_area_2017","FLD_AR_ID","area id",4
+"7698","floodway_area_2017","STUDY_TYP","type of study - non-profit?",1
+"7699","floodway_area_2017","FLD_ZONE","field zone",1
+"7700","floodway_area_2017","ZONE_SUBTY","zone subtype",3
+"7701","floodway_area_2017","SFHA_TF","",1
+"7702","floodway_area_2017","SOURCE_CIT","",1
+"7703","floodway_area_2017","ShapeSTArea","area of the zone",4
+"7943","green_infrastructure_city_garden_point_","OBJECTID","Unique identifier",4
+"8032","green_infrastructure_city_garden_point_","X","GPS Longitude",4
+"8033","green_infrastructure_city_garden_point_","Y","GPS Latitude",4
+"8122","green_infrastructure_city_garden_point_","Theme","Theme of the garden",4
+"8123","green_infrastructure_city_garden_point_","Webmap","type of garden",4
+"8124","green_infrastructure_city_garden_point_","Entry","Location/affiliation",4
+"8125","green_infrastructure_city_garden_point_","Public_Private","public or private",4
+"8126","green_infrastructure_city_garden_point_","Address","Address",4
+"8127","green_infrastructure_city_garden_point_","Description","descriptin of the garden",4
+"8128","green_infrastructure_city_garden_point_","links","links to the webpage",4
+"8361","green_infrastructure_city_market_point_","OBJECTID","Unique identifier",4
+"8450","green_infrastructure_city_market_point_","X","GPS Longitude",4
+"8451","green_infrastructure_city_market_point_","Y","GPS Latitude",4
+"8540","green_infrastructure_city_market_point_","Theme","Theme of the garden",4
+"8541","green_infrastructure_city_market_point_","Webmap","type of garden",4
+"8542","green_infrastructure_city_market_point_","Entry","Location/affiliation",4
+"8543","green_infrastructure_city_market_point_","Public_Private","public or private",4
+"8544","green_infrastructure_city_market_point_","Address","Address",4
+"8545","green_infrastructure_city_market_point_","Description","descriptin of the garden",4
+"8546","green_infrastructure_city_market_point_","links","links to the webpage",4
+"8779","green_infrastructure_energy_star_structures_","OBJECTID","Unique identifier",4
+"8868","green_infrastructure_energy_star_structures_","X","GPS Longitude",4
+"8869","green_infrastructure_energy_star_structures_","Y","GPS Latitude",4
+"8958","green_infrastructure_energy_star_structures_","Theme","Theme of the garden",4
+"8959","green_infrastructure_energy_star_structures_","Webmap","type of garden",4
+"8960","green_infrastructure_energy_star_structures_","Entry","Location/affiliation",4
+"8962","green_infrastructure_energy_star_structures_","Address","Address",4
+"8963","green_infrastructure_energy_star_structures_","Description","descriptin of the garden",4
+"8964","green_infrastructure_energy_star_structures_","links","links to the webpage",4
+"8965","green_infrastructure_energy_star_structures_","Owner","type of owner",4
+"8966","green_infrastructure_energy_star_structures_","Construction_Completed","Year of competion",3
+"8967","green_infrastructure_energy_star_structures_","Certification","certification and rating",4
+"9197","green_infrastructure_leed_structures_","OBJECTID","Unique identifier",4
+"9286","green_infrastructure_leed_structures_","X","GPS Longitude",4
+"9287","green_infrastructure_leed_structures_","Y","GPS Latitude",4
+"9376","green_infrastructure_leed_structures_","Theme","Theme of the garden",4
+"9377","green_infrastructure_leed_structures_","Webmap","type of garden",4
+"9378","green_infrastructure_leed_structures_","Entry","Location/affiliation",4
+"9380","green_infrastructure_leed_structures_","Address","Address",4
+"9381","green_infrastructure_leed_structures_","Description","descriptin of the garden",4
+"9382","green_infrastructure_leed_structures_","links","links to the webpage",4
+"9383","green_infrastructure_leed_structures_","Owner","type of owner",4
+"9384","green_infrastructure_leed_structures_","Construction_Completed","Year of competion",4
+"9385","green_infrastructure_leed_structures_","Certification","certification and rating",4
+"9386","green_infrastructure_leed_structures_","picture","image of the structure",4
+"9615","historic_conservation_district_area","OBJECTID","Unique identifier",4
+"9616","historic_conservation_district_area","NAME","Colloquial district name",4
+"9617","historic_conservation_district_area","Shapearea","Surface area of district",3
+"10033","historically_underutilized_business_zones_2015","OBJECTID","Unique identifier",4
+"10156","historically_underutilized_business_zones_2015","STATUS","Progress of project",3
+"10211","historically_underutilized_business_zones_2015","ShapeSTArea","area of the zone",4
+"10223","historically_underutilized_business_zones_2015","STATE","location",2
+"10224","historically_underutilized_business_zones_2015","COUNTY","location",2
+"10225","historically_underutilized_business_zones_2015","TRACT","",1
+"10226","historically_underutilized_business_zones_2015","NAME","",1
+"10227","historically_underutilized_business_zones_2015","FIPS","",1
+"10604","impervious_area_table","StreetName","Name of street for dog tag",4
+"10605","impervious_area_table","StreetNumber","ZONE",4
+"10646","impervious_area_table","ImperviousSurfaceID","Unique identifier for impervious surface",4
+"10647","impervious_area_table","BillingUnits","",1
+"10648","impervious_area_table","FeeAmount","Fee for surface",3
+"10649","impervious_area_table","NetSquareFeet","Total square footage of impervious surface",4
+"10650","impervious_area_table","ParcelNumber","APN (Assessor Parcel Number)",3
+"10651","impervious_area_table","ParcelPercent","",1
+"10652","impervious_area_table","SquareFeet","Not always same as NetSquareFeet",2
+"10653","impervious_area_table","TaxYear","Tax year ",2
+"10654","impervious_area_table","Unit","Apartment unit for address",4
+"10869","individually_protected_property_area","OBJECTID","Unique identifier",4
+"10871","individually_protected_property_area","Shapearea","Surface area of district",3
+"11052","individually_protected_property_area","Address","Address",4
+"11073","individually_protected_property_area","PIN","Personal ID Number",3
+"11074","individually_protected_property_area","GPIN","Some ID Number",3
+"11287","master_address_table","OBJECTID","Unique identifier",4
+"11447","master_address_table","BIN","",1
+"11448","master_address_table","ST_NUMBER","Street number",4
+"11493","master_address_table","ST_UNIT","Unit for street address",4
+"11494","master_address_table","UNIT_TYPE","Type of unit for address",4
+"11495","master_address_table","PREDIR","",1
+"11496","master_address_table","ST_NAME","Street name",4
+"11497","master_address_table","SUFFIX","Suffix for street name (e.g. RD)",4
+"11498","master_address_table","POSTDIR","",1
+"11499","master_address_table","ZIP","Zip code",4
+"11500","master_address_table","USE_TYPE","Type of usage",3
+"11501","master_address_table","MasterAddressID","Unique identifier for address",3
+"11705","municipal_boundary_area","OBJECTID","Unique identifier",4
+"11707","municipal_boundary_area","Shapearea","Surface area of district",3
+"11920","municipal_boundary_area","ID","Unique identifier",4
+"12123","new_market_tax_credit_eligible_area_2015","OBJECTID","Unique identifier",4
+"12246","new_market_tax_credit_eligible_area_2015","STATUS","Progress of project",3
+"12301","new_market_tax_credit_eligible_area_2015","ShapeSTArea","area of the zone",3
+"12313","new_market_tax_credit_eligible_area_2015","STATE","location",3
+"12314","new_market_tax_credit_eligible_area_2015","COUNTY","location",3
+"12315","new_market_tax_credit_eligible_area_2015","TRACT","",1
+"12316","new_market_tax_credit_eligible_area_2015","NAME","",1
+"12317","new_market_tax_credit_eligible_area_2015","FIPS","",1
+"12541","parcel_area","OBJECTID","Unique identifier",4
+"12628","parcel_area","ShapeSTLength","Street Length",2
+"12719","parcel_area","ShapeSTArea","area of the zone",3
+"12746","parcel_area","GPIN","Some ID Number",3
+"12959","parcel_area_details","OBJECTID","Unique identifier",4
+"13120","parcel_area_details","ST_NUMBER","Street number",4
+"13161","parcel_area_details","TaxYear","Tax year ",2
+"13163","parcel_area_details","PIN","Personal ID Number",3
+"13164","parcel_area_details","GPIN","Some ID Number",3
+"13165","parcel_area_details","ST_UNIT","Unit for street address",4
+"13168","parcel_area_details","ST_NAME","Street name",4
+"13175","parcel_area_details","ASSESSMENT","Value assessment",3
+"13176","parcel_area_details","MAPPAGE","",1
+"13177","parcel_area_details","ZONE","",1
+"13178","parcel_area_details","LEGALDESCR","Legal description of location/lot",2
+"13179","parcel_area_details","LOTSQFT","Square footage of lot",4
+"13180","parcel_area_details","FILETYPE","",1
+"13377","parcel_owner_points","OBJECTID","Unique identifier",4
+"13466","parcel_owner_points","X","GPS Longitude",4
+"13467","parcel_owner_points","Y","GPS Latitude",4
+"13538","parcel_owner_points","ST_NUMBER","Street number",4
+"13583","parcel_owner_points","ST_UNIT","Unit for street address",4
+"13586","parcel_owner_points","ST_NAME","Street name",4
+"13595","parcel_owner_points","ZONE","",1
+"13596","parcel_owner_points","LEGALDESCR","Legal description of location/lot",2
+"13597","parcel_owner_points","LOTSQFT","Square footage of lot",4
+"13598","parcel_owner_points","FILETYPE","",1
+"13599","parcel_owner_points","USE_CODE","",1
+"13600","parcel_owner_points","PROP_ID","Property ID number",3
+"13601","parcel_owner_points","PARCELSPOL","",1
+"13602","parcel_owner_points","Zip code","",4
+"13603","parcel_owner_points","PARCELMAP","",1
+"13795","park_area","OBJECTID","Unique identifier",4
+"13797","park_area","Shapearea","Surface area of district",3
+"13909","park_area","PARK_TYPE","Type of park",4
+"13910","park_area","PARKNAME","Name of park",4
+"13911","park_area","ZONING_OVERLAY","",1
+"13912","park_area","WEBURL","Link to website",4
+"13944","park_area","created_date","Date/Time the update was made",4
+"14022","park_area","created_user","User ID of creator of observation",4
+"14023","park_area","last_edited_user","User ID of last editor",4
+"14024","park_area","last_edited_date","Date/Time of last edit",4
+"14025","park_area","PARK_ZONE","Colloquial name of parking zone",2
+"14213","parking_exempt_area","OBJECTID","Unique identifier",4
+"14215","parking_exempt_area","Shapearea","Surface area of district",3
+"14781","parking_meter_pilot_data_","RecordID","Unique ID for record",4
+"14862","parking_meter_pilot_data_","Card","Amount paid for by card",3
+"14863","parking_meter_pilot_data_","Coins","Amount paid for by coins",3
+"14864","parking_meter_pilot_data_","Date_Payment","Date of the payment",4
+"14865","parking_meter_pilot_data_","InvalidCoins","Number of invalid coins used",3
+"14866","parking_meter_pilot_data_","LicensePlateAnon","Anonymized license plate identifier",4
+"14867","parking_meter_pilot_data_","Meter_Lat","Latitude of meter",4
+"14868","parking_meter_pilot_data_","Meter_Long","Longitude of meter",4
+"14869","parking_meter_pilot_data_","MeterType","Singlespace or multispace",4
+"14870","parking_meter_pilot_data_","ParkingEndTime","End time of parking",4
+"14871","parking_meter_pilot_data_","SpaceName","Name of space",4
+"14872","parking_meter_pilot_data_","TimePurchased","Amount of time bought",4
+"14873","parking_meter_pilot_data_","Total","Total amount paid",4
+"14874","parking_meter_pilot_data_","TotalParkingTime","Total parking time used",3
+"14875","parking_meter_pilot_data_","TransactionStatus","Status of transaction",4
+"14876","parking_meter_pilot_data_","TransactionType","Type of currency used",4
+"15138","parking_meter_pilot_locations_","X","GPS Longitude",4
+"15139","parking_meter_pilot_locations_","Y","GPS Latitude",4
+"15211","parking_meter_pilot_locations_","STREET","Name of street",4
+"15295","parking_meter_pilot_locations_","MeterID","Unique identifier for meter",4
+"15296","parking_meter_pilot_locations_","Block","Block number the meter is on",3
+"15297","parking_meter_pilot_locations_","Face","Direction the meter faces",3
+"15298","parking_meter_pilot_locations_","Spaces","Number of spaces for the meter",3
+"15617","parking_permits_address","RecordID","Unique ID for record",4
+"15620","parking_permits_address","StreetName","Name of street for dog tag",4
+"15621","parking_permits_address","StreetNumber","ZONE",4
+"15717","parking_permits_address","BlockNumber","Street number for block",4
+"15718","parking_permits_address","FreePermits_Guest","Number of free permits for guests",2
+"15719","parking_permits_address","FreePermits_Resident","Number of free permits for residents",3
+"15720","parking_permits_address","PermitHoursDescription","Description of the hours when the permit is in effect",4
+"15721","parking_permits_address","PermitsAllocated_Guest","Number of guest permits allocated",3
+"15722","parking_permits_address","PermitsAllocated_Resident","Number of resident permits allocated",3
+"15723","parking_permits_address","Zone","Zone number for permit",3
+"15724","parking_permits_address","ZoningDesignation","Zoning designation code",3
+"16035","parking_permits_detail","RecordID","Unique ID for record",4
+"16038","parking_permits_detail","StreetName","Name of street for dog tag",4
+"16039","parking_permits_detail","StreetNumber","ZONE",4
+"16143","parking_permits_detail","PermitType","Guest or Resident permit",4
+"16144","parking_permits_detail","PermitYear","Year of permit",4
+"16453","parking_tickets","RecordID","Unique ID for record",4
+"16456","parking_tickets","StreetName","Name of street for dog tag",4
+"16457","parking_tickets","StreetNumber","ZONE",4
+"16563","parking_tickets","TicketNumber","Ticket number ID",4
+"16564","parking_tickets","DateIssued","Date of ticket issue",4
+"16565","parking_tickets","TimeIssued","Time of day of ticket issue",4
+"16566","parking_tickets","LicenseState","State of license plate",4
+"16567","parking_tickets","WaiverRequestDate","Date of ticket waiver request",4
+"16568","parking_tickets","WaiverGrantedDate","Date of ticket waiver granted",4
+"16569","parking_tickets","AppealDate","Date of ticket appeal",4
+"16570","parking_tickets","AppealGrantedDate","Date of ticket appeal granted",4
+"16571","parking_tickets","ViolationDescription","Description of violation for ticket",4
+"16572","parking_tickets","AppealStatus","Status of appeal",4
+"16573","parking_tickets","Location","Street number and name of location of ticket",4
+"16574","parking_tickets","LicensePlateAnon","Anonymized license plate number ID",4
+"16721","pedestrian_sidewalk_area","OBJECTID","Unique identifier",4
+"16723","pedestrian_sidewalk_area","Shapearea","Surface area of district",3
+"17139","pedestrian_sidewalk_bridge_are","OBJECTID","Unique identifier",4
+"17141","pedestrian_sidewalk_bridge_are","Shapearea","Surface area of district",3
+"17207","pedestrian_sidewalk_bridge_are","Shape_Leng","total length",3
+"17557","pedestrian_walkway_area","OBJECTID","Unique identifier",4
+"17559","pedestrian_walkway_area","Shapearea","Surface area of district",3
+"17975","permit_parking_zone_area","OBJECTID","Unique identifier",4
+"18153","permit_parking_zone_area","ShapeSTArea","area of the zone",3
+"18231","permit_parking_zone_area","Zone","Zone number for permit",3
+"18247","permit_parking_zone_area","Name","Either just ""Zone"" + 'Zone' column entry or ""24-Hour Zone""",3
+"18248","permit_parking_zone_area","vicinity","Colloquial name for neighborhood/zone",4
+"18393","police_neighborhood_area","OBJECTID","Unique identifier",4
+"18667","police_neighborhood_area","BEAT_NO","",1
+"18668","police_neighborhood_area","NAME","Colloquial name for neighborhood",4
+"18669","police_neighborhood_area","POPULATION","Population of neighborhood",4
+"18670","police_neighborhood_area","DISTRICT","District number of neighborhood",3
+"18811","railroad_centerline","OBJECTID","Unique identifier",4
+"18950","railroad_centerline","SHAPElen","Length ",3
+"19089","railroad_centerline","NAME","Name of railroad company",3
+"19428","real_estate_additions_","ParcelNumber","APN (Assessor Parcel Number)",3
+"19508","real_estate_additions_","Description","Description of real estate addition",4
+"19509","real_estate_additions_","CVGISCITYVW_OPENDATA_PARCELS_ADDITIONSArea","Area of addition",2
+"19743","real_estate_all_assessments_","RecordID_Int","Unique Record Identifier",4
+"19846","real_estate_all_assessments_","ParcelNumber","APN (Assessor Parcel Number)",3
+"19849","real_estate_all_assessments_","TaxYear","Tax year ",3
+"19928","real_estate_all_assessments_","LandValue","Value of land of real estate",4
+"19929","real_estate_all_assessments_","ImprovementValue","Value of real estate improvement",4
+"19930","real_estate_all_assessments_","TotalValue","Sum of LandValue and ImprovementValue",4
+"20161","real_estate_base_data_","RecordID_Int","Unique Record Identifier",4
+"20218","real_estate_base_data_","StreetName","Name of street for dog tag",4
+"20219","real_estate_base_data_","StreetNumber","ZONE",4
+"20264","real_estate_base_data_","ParcelNumber","APN (Assessor Parcel Number)",3
+"20268","real_estate_base_data_","Unit","Apartment unit for address",3
+"20270","real_estate_base_data_","GPIN","Some ID Number",2
+"20349","real_estate_base_data_","StateCode","State code for real estate",3
+"20350","real_estate_base_data_","TaxType","Taxable or Exempt",4
+"20351","real_estate_base_data_","Zone","Zone type",3
+"20352","real_estate_base_data_","TaxDist","",1
+"20353","real_estate_base_data_","Legal","Legal description of real estate",2
+"20354","real_estate_base_data_","Acreage","Area of real estate in acres",4
+"20579","real_estate_base_data_active_and_inactive_parcels","RecordID_Int","Unique Record Identifier",4
+"20636","real_estate_base_data_active_and_inactive_parcels","StreetName","Name of street for dog tag",4
+"20637","real_estate_base_data_active_and_inactive_parcels","StreetNumber","ZONE",4
+"20682","real_estate_base_data_active_and_inactive_parcels","ParcelNumber","APN (Assessor Parcel Number)",3
+"20686","real_estate_base_data_active_and_inactive_parcels","Unit","Apartment unit for address",3
+"20688","real_estate_base_data_active_and_inactive_parcels","GPIN","Some ID Number",2
+"20767","real_estate_base_data_active_and_inactive_parcels","StateCode","State code for real estate",3
+"20768","real_estate_base_data_active_and_inactive_parcels","TaxType","Taxable or Exempt",4
+"20769","real_estate_base_data_active_and_inactive_parcels","Zone","Zone type",3
+"20770","real_estate_base_data_active_and_inactive_parcels","TaxDist","",1
+"20771","real_estate_base_data_active_and_inactive_parcels","Legal","Legal description of real estate",2
+"20772","real_estate_base_data_active_and_inactive_parcels","Acreage","Area of real estate in acres",4
+"20773","real_estate_base_data_active_and_inactive_parcels","IsActive","",1
+"20997","real_estate_commerical_details_","RecordID_Int","Unique Record Identifier",4
+"21100","real_estate_commerical_details_","ParcelNumber","APN (Assessor Parcel Number)",3
+"21192","real_estate_commerical_details_","UseCode","Use code, brief summary of real estate",3
+"21193","real_estate_commerical_details_","YearBuilt","Year real estate was built",4
+"21194","real_estate_commerical_details_","GrossArea","Area of real estate",3
+"21195","real_estate_commerical_details_","StoryHeight","Height of each story of real estate",3
+"21196","real_estate_commerical_details_","NumberOfStories","Number of stories of real estate",3
+"21319","real_estate_current_assessments","OBJECTID","Unique identifier",4
+"21480","real_estate_current_assessments","ST_NUMBER","Street number",4
+"21518","real_estate_current_assessments","ParcelNumber","APN (Assessor Parcel Number)",3
+"21525","real_estate_current_assessments","ST_UNIT","Unit for street address",4
+"21528","real_estate_current_assessments","ST_NAME","Street name",4
+"21538","real_estate_current_assessments","LEGALDESCR","Legal description of location/lot",2
+"21539","real_estate_current_assessments","LOTSQFT","Square footage of lot",4
+"21540","real_estate_current_assessments","FILETYPE","",1
+"21615","real_estate_current_assessments","CurrentAssessedValue","Real estate's current assessed value",3
+"21833","real_estate_residential_details_","RecordID_Int","Unique Record Identifier",4
+"21936","real_estate_residential_details_","ParcelNumber","APN (Assessor Parcel Number)",3
+"22028","real_estate_residential_details_","UseCode","Use code, brief summary of real estate",3
+"22029","real_estate_residential_details_","YearBuilt","Year real estate was built",4
+"22034","real_estate_residential_details_","Style","Style of home (typically story number)",4
+"22035","real_estate_residential_details_","Grade","Quality of real estate and indicator of historical/not",4
+"22036","real_estate_residential_details_","ExtWalls","Exterior walls composition",4
+"22037","real_estate_residential_details_","Roof","Roof composition",4
+"22041","real_estate_residential_details_","Fireplace","Number of fireplaces",4
+"22042","real_estate_residential_details_","NoOfStories","Number of stories",4
+"22043","real_estate_residential_details_","TotalRooms","Total number of rooms",4
+"22044","real_estate_residential_details_","Bedrooms","Number of bedrooms",4
+"22045","real_estate_residential_details_","HalfBathrooms","Number of half bathrooms",4
+"22046","real_estate_residential_details_","FullBathrooms","Number of full bathrooms",4
+"22047","real_estate_residential_details_","BasementGarage","Number of basement garage car slots",3
+"22048","real_estate_residential_details_","SqFootageFinishedLiving","Square footage of living space when finished",4
+"22049","real_estate_residential_details_","Basement","Square footage of basement",2
+"22050","real_estate_residential_details_","FinishedBasement","Square footage of finished basement",2
+"22251","real_estate_sales_","RecordID_Int","Unique Record Identifier",4
+"22354","real_estate_sales_","ParcelNumber","APN (Assessor Parcel Number)",3
+"22469","real_estate_sales_","SaleDate","Date of sale",4
+"22470","real_estate_sales_","SaleAmount","Cost of sale",4
+"22471","real_estate_sales_","BookPage","",1
+"22573","road_area","OBJECTID","Unique identifier",4
+"22575","road_area","Shapearea","Surface area of district",3
+"22991","road_bridge_area","OBJECTID","Unique identifier",4
+"22993","road_bridge_area","Shapearea","Surface area of district",3
+"23409","road_centerlines","OBJECTID","Unique identifier",4
+"23414","road_centerlines","STREETNAME","Street name",4
+"23548","road_centerlines","SHAPElen","Length ",3
+"23571","road_centerlines","STREET","Name of street",4
+"23619","road_centerlines","SUFFIX","Suffix for street name (e.g. RD)",4
+"23726","road_centerlines","L_LADD","",1
+"23727","road_centerlines","L_HADD","",1
+"23728","road_centerlines","R_LADD","",1
+"23729","road_centerlines","R_HADD","",1
+"23730","road_centerlines","PREDIR","",1
+"23731","road_centerlines","POSDIR","",1
+"23732","road_centerlines","UPDATED","Date of last update",4
+"23733","road_centerlines","UPDATED_BY","User info of last person to update data set",3
+"23734","road_centerlines","CREATED","User info of whoever created data set",3
+"23735","road_centerlines","ST_CLASS","",1
+"23736","road_centerlines","CATCHBASIN","",1
+"23737","road_centerlines","PRIORITY","Priority level",3
+"23738","road_centerlines","SNOWRT","",1
+"23739","road_centerlines","LEAFRT","",1
+"23740","road_centerlines","TRASHRT","Trash route day",3
+"23741","road_centerlines","ENABLED","",1
+"23742","road_centerlines","ONE_WAY","",1
+"23743","road_centerlines","SPEED","Speed limit of street",4
+"23744","road_centerlines","PS_1","",1
+"23745","road_centerlines","PS_2","",1
+"23746","road_centerlines","SYMBOLOGY","",1
+"23747","road_centerlines","PARKZONE","Parking zoning",2
+"23748","road_centerlines","STSEGID","Unique ID of some sort",2
+"23749","road_centerlines","created_user","Creator of data set",4
+"23750","road_centerlines","created_date","Date of creation of data set",4
+"23751","road_centerlines","last_edited_user","User info of last editor",4
+"23752","road_centerlines","last_edited_date","Date the data set was last edited",4
+"23753","road_centerlines","DeadEnd","Indicator of if street is a dead end",4
+"23754","road_centerlines","PCI_ID","",1
+"23755","road_centerlines","PCI_SCORE_2017","",1
+"23827","road_centerlines_block_level_","OBJECTID","Unique identifier",4
+"23832","road_centerlines_block_level_","STREETNAME","Street name",4
+"23914","road_centerlines_block_level_","ShapeSTLength","Street Length",3
+"24074","road_centerlines_block_level_","Block","Block number the meter is on",4
+"24167","road_centerlines_block_level_","created_user","Creator of data set",4
+"24168","road_centerlines_block_level_","created_date","Date of creation of data set",4
+"24169","road_centerlines_block_level_","last_edited_user","User info of last editor",4
+"24170","road_centerlines_block_level_","last_edited_date","Date the data set was last edited",4
+"24174","road_centerlines_block_level_","isDowntownCorridor","Indicator of if street is a downtown corridor",3
+"24175","road_centerlines_block_level_","SHAPE_STLength__","Length of street",3
+"24176","road_centerlines_block_level_","hasMeter","Indicator of if block has a meter",4
+"24245","special_use_permit_area","OBJECTID","Unique identifier",4
+"24423","special_use_permit_area","ShapeSTArea","area of the zone",3
+"24428","special_use_permit_area","Address","Address",4
+"24595","special_use_permit_area","Tax_Map_Parcel","",1
+"24596","special_use_permit_area","Approval_Date","Date of approval",4
+"24597","special_use_permit_area","Requester","Requester of special use permit",4
+"24598","special_use_permit_area","Requested_Change","Description of requested change",4
+"24599","special_use_permit_area","Conditions","Imposed conditions on special use permit",4
+"24600","special_use_permit_area","Amendments","Description of data of amendment to special use permit",4
+"24601","special_use_permit_area","Expiration","Expiration date",4
+"24663","street_amp_sidewalk_closure_permit_area","OBJECTID","Unique identifier",4
+"24841","street_amp_sidewalk_closure_permit_area","ShapeSTArea","area of the zone",3
+"25020","street_amp_sidewalk_closure_permit_area","Name","Citizen name",2
+"25021","street_amp_sidewalk_closure_permit_area","Company","Company name",3
+"25022","street_amp_sidewalk_closure_permit_area","Phone","Phone number",4
+"25023","street_amp_sidewalk_closure_permit_area","Date_Submitted","Submission date",4
+"25024","street_amp_sidewalk_closure_permit_area","Status","Status of sidewalk closure permit",4
+"25025","street_amp_sidewalk_closure_permit_area","Date_Approved","Date of approval",4
+"25026","street_amp_sidewalk_closure_permit_area","Street_Etc_To_Be_Closed","Streets that will be closed",4
+"25027","street_amp_sidewalk_closure_permit_area","Description","Description of effects",4
+"25028","street_amp_sidewalk_closure_permit_area","Limits_of_Closure","What kind of structures will be closed",4
+"25029","street_amp_sidewalk_closure_permit_area","Num_of_Lanes","Number of lanes that will be closed",3
+"25030","street_amp_sidewalk_closure_permit_area","Lanes_Affected","Which lanes on road are affected",3
+"25031","street_amp_sidewalk_closure_permit_area","Num_Parking_Closed","Number of parking spots that are closed",3
+"25032","street_amp_sidewalk_closure_permit_area","Details","Further details",4
+"25033","street_amp_sidewalk_closure_permit_area","Start_Date","Start date of closure",4
+"25034","street_amp_sidewalk_closure_permit_area","End_Date","End date of closure",4
+"25035","street_amp_sidewalk_closure_permit_area","Hours_of_Closure","Hours a day of closure",3
+"25036","street_amp_sidewalk_closure_permit_area","Notes","Additional notes",4
+"25037","street_amp_sidewalk_closure_permit_area","AGOL_PIN_SYMBOLOGY","",1
+"25081","surface_water_course_area","OBJECTID","Unique identifier",1
+"25296","surface_water_course_area","ID","Unique identifier",4
+"25456","surface_water_course_area","FID_SURFAC","",1
+"25457","surface_water_course_area","LAYER","Descriptor of water feature",2
+"25499","surface_water_course_line","OBJECTID","Unique identifier",4
+"25502","surface_water_course_line","OBJECTID_1","Row number",4
+"25638","surface_water_course_line","SHAPElen","Length ",3
+"25875","surface_water_course_line","LAYER","Descriptor of water feature",2
+"25876","surface_water_course_line","LYRCOLOR","Mostly 5's, some 0's",1
+"25877","surface_water_course_line","NAME","Name of water feature",2
+"26296","transit","TransitID","Unique identifier for Transit system",4
+"26297","transit","Stop","Stop name",4
+"26298","transit","Route","Route name",4
+"26299","transit","Date_Time","Time and date of purchase",4
+"26300","transit","FareCategory","Category for fare",4
+"26301","transit","PaymentType","Type of currency for payment",4
+"26302","transit","Latitude","Latitude of purchase",4
+"26303","transit","Longitude","Longitude of purchase",4
+"26335","us_census_block_area_2010","OBJECTID","Unique identifier",4
+"26550","us_census_block_area_2010","ID","Unique identifier",4
+"26722","us_census_block_area_2010","Coloring","",1
+"26723","us_census_block_area_2010","Block","Unique number for block",2
+"26724","us_census_block_area_2010","BlockGroup","Unique number for block group",2
+"26725","us_census_block_area_2010","Tract","Tract number",2
+"26726","us_census_block_area_2010","County","County number",3
+"26727","us_census_block_area_2010","State","State number",3
+"26728","us_census_block_area_2010","Block2000","Unique number for block",2
+"26729","us_census_block_area_2010","MCD","",1
+"26730","us_census_block_area_2010","Place","",1
+"26731","us_census_block_area_2010","VTD","",1
+"26732","us_census_block_area_2010","Congress","Congressional distrcit number",2
+"26733","us_census_block_area_2010","LowerSLD","",1
+"26734","us_census_block_area_2010","UpperSLD","",1
+"26735","us_census_block_area_2010","CBSA","",1
+"26736","us_census_block_area_2010","UnifSchool","",1
+"26737","us_census_block_area_2010","Population","Population",4
+"26753","us_census_tract_area_2010","OBJECTID","Unique identifier",4
+"26968","us_census_tract_area_2010","ID","Unique identifier",4
+"27140","us_census_tract_area_2010","Coloring","",1
+"27143","us_census_tract_area_2010","Tract","Tract number",2
+"27144","us_census_tract_area_2010","County","County number",3
+"27145","us_census_tract_area_2010","State","State number",3
+"27155","us_census_tract_area_2010","Population","Population",4
+"27156","us_census_tract_area_2010","AREA_","",1
+"27157","us_census_tract_area_2010","Name","",1
+"27158","us_census_tract_area_2010","White","Population of White individuals",4
+"27159","us_census_tract_area_2010","Black","Population of Black individuals",4
+"27160","us_census_tract_area_2010","AmIndian","Population of American Indian individuals",4
+"27161","us_census_tract_area_2010","Asian","Population of Asian individuals",4
+"27162","us_census_tract_area_2010","Hawaiian","Population of Hawaiian individuals",4
+"27163","us_census_tract_area_2010","Other","Population of individuals who don't fall in any of the other categories",4
+"27171","vehicle_driveway_area","OBJECTID","Unique identifier",4
+"27173","vehicle_driveway_area","Shapearea","Surface area of district",3
+"27589","vehicle_parking_area","OBJECTID","Unique identifier",4
+"27591","vehicle_parking_area","Shapearea","Surface area of district",3
+"28007","voting_place_points","OBJECTID","Unique identifier",4
+"28096","voting_place_points","X","GPS Longitude",4
+"28097","voting_place_points","Y","GPS Latitude",4
+"28190","voting_place_points","Address","Address",4
+"28418","voting_place_points","TYPE","Colloquial descriptor for voting place, though not unique",4
+"28419","voting_place_points","PRECINCT","Precinct of voting place",4
+"28420","voting_place_points","FACILITY_N","Name of facility",4
+"28839","voting_precinct_area","District","District of voting precinct",3
+"28843","wetland_area","OBJECTID","Unique identifier",4
+"28845","wetland_area","Shapearea","Surface area of district",3
+"29258","wetland_area","ATTRIBUTE","",1
+"29259","wetland_area","WETLAND_TY","Description of wetland area",4
+"29260","wetland_area","ACRES","Acreage of wetland area",4
+"29263","zoning_multiple_area","Shapearea","Surface area of district",3
+"29264","zoning_multiple_area","OBJECTID_1","Row number",4
+"29478","zoning_multiple_area","MAPPAGE","",1
+"29479","zoning_multiple_area","ZONE","",1
+"29485","zoning_multiple_area","PARCELSPOL","",1
