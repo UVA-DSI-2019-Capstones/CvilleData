@@ -29,8 +29,11 @@ lltoblock = function(df) {
   return(webpagelist)
 }
 
+# save output and extract block number
+stored = lltoblock(as.data.frame(both))
 
-
-stored = lltoblock(as.data.frame(both)[1:10,])
+# copy both and append block number to both
+both_block <- both
+both_block$Block <- sub(".*FIPS\\\":\\\" *(.*?) *\\\",\\\"bbox.*", "\\1", stored)
 
 
